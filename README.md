@@ -1,89 +1,90 @@
-# Curated awesome list for academic tools
+# Awesome Academic
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/mawady/awesome-academic)
+
+Curated awesome list for academic tools for teaching and research
 
 ---
 
-## Survey
-- Qualtrics
-- Mentimeter
-- Padlet
+## Online Survey
+- [Mentimeter](https://www.mentimeter.com/)
+- [Padlet](https://padlet.com/)
 
 ---
 
-## Whiteboard
-- Explain Everything
-- Miro
+## Interactive Whiteboard
+- [Explain Everything](https://explaineverything.com/)
+- [Miro](https://miro.com/whiteboard/)
 
 ---
 
 ## Reference Management
-- Zotero
-- EndNote
-- Mendeley
- 
+- [Zotero](https://www.zotero.org/)
+- [EndNote](https://endnote.com/)
+- [Mendeley](https://www.mendeley.com/)
 
-Paper Recommender
+---
 
-Scholar Inbox
-Connected Papers
-Litmaps
- 
+## Article Recommender
+- [Scholar Inbox](https://www.scholar-inbox.com/)
+- [Connected Papers](https://www.connectedpapers.com/)
+- [Litmaps](https://www.litmaps.com/)
 
-Demos
+---
 
-Hugging Face Spaces
-Replicate
- 
- 
+## Live Demos
+- [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Replicate](https://replicate.com/explore)
 
-Search Engine
+---
 
-Google Scholar
-Semantic Scholar
-Bielefeld Academic Search Engine
- 
+## Search Engine
+- [Google Scholar](https://scholar.google.com/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [Bielefeld Academic Search Engine](https://www.base-search.net/)
 
-Data Sharing Platforms
+--- 
 
-Zenodo
-OSF
-FigShare
- 
+## Data Sharing Platforms
+- [Zenodo](https://zenodo.org/)
+- [OSF](https://osf.io/)
+- [FigShare](https://figshare.com/)
 
-Research Networking Platforms
+---
 
-ORCID
-Web of Science
- 
+## Research Networking Platforms
+- [ORCID](https://orcid.org/)
+- [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/)
 
-GenAI
+--- 
 
-Elicit
-ChatPDF
-Explainpaper
- 
+## GenAI
+- [Elicit](https://elicit.com/)
+- [ChatPDF](https://www.chatpdf.com/)
+- [Explainpaper](https://www.explainpaper.com/)
 
-Implementation
+---
 
-GitHub
-PaperWithCode
- 
+## Sourcecode Finder
+- [GitHub](https://github.com/)
+- [PaperWithCode](https://paperswithcode.com/)
 
-Writing
+---
 
-Overleaf
-LyX
-TeXstudio
- 
+## Article Writing
+- [Overleaf](https://www.overleaf.com/)
+- [LyX](https://www.lyx.org/)
+- [TeXstudio](https://www.texstudio.org/)
 
-Grammar Checker
+---
 
-Grammarly
-Trinka
-QuillBot
- 
+## Grammar Checker
+- [Grammarly](https://www.grammarly.com/)
+- [QuillBot](https://quillbot.com/)
+- [Trinka](https://www.trinka.ai/)
 
-Plagiarism Checker
+---
 
-Turnitin
-Scribbr
-Plagramme
+## Plagiarism Checker
+- [Turnitin](https://www.turnitin.co.uk/products/ithenticate/)
+- [Scribbr](https://www.scribbr.co.uk/plagiarism-checker/)
+- [Plagramme](https://www.plagramme.com/)
