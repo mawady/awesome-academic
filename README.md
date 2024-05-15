@@ -1,7 +1,7 @@
 # Awesome Academic
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/mawady/awesome-academic)
 
-Curated awesome list for academic tools for teaching and research
+Curated awesome list of academic tools for teaching and research
 
 ---
 ## Contents
