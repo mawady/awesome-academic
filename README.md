@@ -6,6 +6,17 @@ Curated awesome list for academic tools for teaching and research
 ---
 ## Contents
 > * **[Online Survey](#Online-Survey)**
+> * **[Interactive Whiteboard](#Interactive-Whiteboard)**
+> * **[Reference Management](#Reference-Management)**
+> * **[Article Recommender](#Article-Recommender)**
+> * **[Live Demo](#Live-Demo)**
+> * **[Search Engine](#Search-Engine)**
+> * **[Data Sharing Platform](#Data-Sharing-Platform)**
+> * **[Research Networking Platform](#Research-Networking-Platform)**
+> * **[AI Assistant](#AI-Assistant)**
+> * **[Sourcecode Finder](#Sourcecode-Finder)**
+> * **[Article Writing](#Article-Writing)**
+> * **[Grammar Checker](#Grammar-Checker)**
 > * **[Plagiarism Checker](#Plagiarism-Checker)**
 
 
@@ -37,7 +48,7 @@ Curated awesome list for academic tools for teaching and research
 
 ---
 
-## Live Demos
+## Live Demo
 - [Hugging Face Spaces](https://huggingface.co/spaces)
 - [Replicate](https://replicate.com/explore)
 
@@ -50,20 +61,20 @@ Curated awesome list for academic tools for teaching and research
 
 --- 
 
-## Data Sharing Platforms
+## Data Sharing Platform
 - [Zenodo](https://zenodo.org/)
 - [OSF](https://osf.io/)
 - [FigShare](https://figshare.com/)
 
 ---
 
-## Research Networking Platforms
+## Research Networking Platform
 - [ORCID](https://orcid.org/)
 - [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/)
 
 --- 
 
-## GenAI
+## AI Assistant
 - [Elicit](https://elicit.com/)
 - [ChatPDF](https://www.chatpdf.com/)
 - [Explainpaper](https://www.explainpaper.com/)
