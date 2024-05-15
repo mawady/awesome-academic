@@ -4,6 +4,12 @@
 Curated awesome list for academic tools for teaching and research
 
 ---
+## Contents
+> * **[Online Survey](#Online-Survey)**
+> * **[Plagiarism Checker](#Plagiarism-Checker)**
+
+
+---
 
 ## Online Survey
 - [Mentimeter](https://www.mentimeter.com/)
