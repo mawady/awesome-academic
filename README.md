@@ -105,3 +105,10 @@ Curated awesome list of academic tools for teaching and research
 - [Turnitin](https://www.turnitin.co.uk/products/ithenticate/)
 - [Scribbr](https://www.scribbr.co.uk/plagiarism-checker/)
 - [Plagramme](https://www.plagramme.com/)
+
+---
+
+## Free Stock Images
+- [Pixabay](https://pixabay.com)
+- [Unsplash](https://unsplash.com/)
+- [FreePik](https://www.freepik.com/)
