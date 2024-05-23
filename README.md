@@ -109,6 +109,4 @@ Curated awesome list of academic tools for teaching and research
 ---
 
 ## Free Stock Images
-- [Pixabay](https://pixabay.com)
-- [Unsplash](https://unsplash.com/)
 - [FreePik](https://www.freepik.com/)
