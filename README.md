@@ -11,6 +11,7 @@ Curated awesome list of academic tools for teaching and research
 > * **[Online Survey](#online-survey)**
 > * **[Interactive Whiteboard](#interactive-whiteboard)**
 > * **[Reference Management](#reference-management)**
+> * **[Ranking System](#ranking-system)**
 > * **[Article Recommender](#article-recommender)**
 > * **[Live Demo](#live-demo)**
 > * **[Search Engine](#search-engine)**
@@ -18,9 +19,10 @@ Curated awesome list of academic tools for teaching and research
 > * **[Research Networking Platform](#research-networking-platform)**
 > * **[AI Assistant](#ai-assistant)**
 > * **[Sourcecode Finder](#sourcecode-finder)**
-> * **[Article Writing](#article-writing)**
+> * **[LaTeX Writing](#latex-writing)**
 > * **[Grammar Checker](#grammar-checker)**
 > * **[Plagiarism Checker](#plagiarism-checker)**
+>
 
 ---
 
@@ -28,6 +30,7 @@ Curated awesome list of academic tools for teaching and research
 
 * [Mentimeter](https://www.mentimeter.com/)
 * [Padlet](https://padlet.com/)
+* [Slido](https://www.slido.com)
 
 ---
 
@@ -40,9 +43,18 @@ Curated awesome list of academic tools for teaching and research
 
 ## Reference Management
 
-* [Zotero](https://www.zotero.org/)
-* [EndNote](https://endnote.com/)
-* [Mendeley](https://www.mendeley.com/)
+* Zotero: [[Website](https://www.zotero.org/)] | [[Github](https://github.com/zotero/zotero)] *(Recommended)*
+* JabRef: [[Website](https://www.jabref.org)] | [[Github](https://github.com/JabRef/jabref)]
+* EndNote: [[Website](https://endnote.com/)]
+* Mendeley: [[Website](https://www.mendeley.com/)]
+
+---
+
+## Ranking System
+
+* Conference: [[Website - CORE](http://portal.core.edu.au/conf-ranks/)] | [[Website - Prof Emery Berger's list](https://github.com/emeryberger/csconferences)]
+* Journal: [[Website - SCImago](https://www.scimagojr.com/)]
+* Staff / University: [[Website - CSRankings](https://csrankings.org/)]
 
 ---
 
@@ -66,6 +78,10 @@ Curated awesome list of academic tools for teaching and research
 * [Google Scholar](https://scholar.google.com/)
 * [Semantic Scholar](https://www.semanticscholar.org/)
 * [Bielefeld Academic Search Engine](https://www.base-search.net/)
+* [dblp](https://dblp.org)
+* [ResearchGate](https://www.researchgate.net/)
+* [HAL - France](https://hal.science)
+* [CORE - UK](https://core.ac.uk/)
 
 ---
 
@@ -74,6 +90,7 @@ Curated awesome list of academic tools for teaching and research
 * [Zenodo](https://zenodo.org/)
 * [OSF](https://osf.io/)
 * [FigShare](https://figshare.com/)
+* [ScienceOpen](https://www.scienceopen.com/)
 
 ---
 
@@ -99,11 +116,18 @@ Curated awesome list of academic tools for teaching and research
 
 ---
 
-## Article Writing
+## LaTeX Writing
 
-* [Overleaf](https://www.overleaf.com/)
-* [LyX](https://www.lyx.org/)
-* [TeXstudio](https://www.texstudio.org/)
+* Distributions
+  * [TeX Live](https://www.tug.org/texlive/)
+  * [MacTeX](https://tug.org/mactex/) *(Alternative TeX Live for MacOS)*
+  * [MikTeX](https://miktex.org/) *(Recommended)*
+* Editors
+  * [Overleaf](https://www.overleaf.com/) *(Online / Commercial)*
+  * [LyX](https://www.lyx.org/)
+  * TeXstudio: [[Website](https://www.texstudio.org/)] | [[Github](https://github.com/texstudio-org/texstudio)] *(Recommended)*
+  * VSCode + LaTeX Workshop: [[Website-VSCode](https://code.visualstudio.com)] | [[Github-VSCode](https://github.com/microsoft/vscode)] | [[Github-LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop)] *(Recommended)*
+  * Sublime Text + LaTeXTools: [[Website-Sublime Text](https://www.sublimetext.com)] | [[Github-LaTeXTools](https://github.com/SublimeText/LaTeXTools)] *(Commercial)*
 
 ---
 
@@ -126,3 +150,9 @@ Curated awesome list of academic tools for teaching and research
 ## Free Stock Images
 
 * [FreePik](https://www.freepik.com/)
+
+---
+
+## Thanks
+
+* [Curated list of LaTeX awesomeness](https://github.com/egeerardyn/awesome-LaTeX)
